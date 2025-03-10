@@ -1,6 +1,6 @@
-# Getting Started with GBGamesVue
+# Getting Started with LocalDB GBGames
 
-This guide will help you set up and run the GBGames project using Node.js.
+This guide will help you set up and run the LocalDB GBGames project using Node.js.
 
 ## Prerequisites
 
@@ -12,36 +12,36 @@ Make sure you have Node.js installed on your system. You can download it from th
 
 Clone the project repository using Git:
 
+```sh
 git clone https://github.com/AlexPlec/GBGames.git
+```
 
 Then, navigate into the project directory:
 
+```sh
 cd NodeConsoleGames
+```
 
-## Step 1: Navigate to the GBGamesServer Directory
+## Step 1: Navigate to the Project Directory
 
-cd UIRealisation/GBGamesServer
+Ensure you are in the correct directory where the project files are located. You can use the following command to change directories:
+
+```sh
+cd LocalDB
+```
 
 ## Step 2: Install Dependencies
 
 Before running the project, you need to install the necessary Node.js modules. Use the following command to install them:
 
+```sh
 npm install
+```
 
-## Step 3: Run the Server
+## Step 3: Run the Project
 
+Once the dependencies are installed, you can start the project by executing the main script:
+
+```sh
 node Index.js
-
-## Step 4: Navigate to the GBGameVue Directory
-
-cd UIRealisation/GBGameVue
-
-## Step 5: Install Dependencies
-
-Before running the project, you need to install the necessary Node.js modules. Use the following command to install them:
-
-npm install
-
-## Step 6: Run the VueGame
-
-npm run dev
+```

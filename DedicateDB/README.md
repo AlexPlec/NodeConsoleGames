@@ -1,6 +1,6 @@
-# Getting Started with LocalDB GBGames
+# Getting Started with GBGames
 
-This guide will help you set up and run the LocalDB GBGames project using Node.js.
+This guide will help you set up and run the GBGames project using Node.js.
 
 ## Prerequisites
 
@@ -12,26 +12,52 @@ Make sure you have Node.js installed on your system. You can download it from th
 
 Clone the project repository using Git:
 
+```sh
 git clone https://github.com/AlexPlec/GBGames.git
+```
 
 Then, navigate into the project directory:
 
+```sh
 cd NodeConsoleGames
+```
 
-## Step 1: Navigate to the Project Directory
+## Step 1: Navigate to the GBGamesServer Directory
 
-Ensure you are in the correct directory where the project files are located. You can use the following command to change directories:
-
-cd LocalDB
+```sh
+cd DedicateDB/GBGamesServer
+```
 
 ## Step 2: Install Dependencies
 
 Before running the project, you need to install the necessary Node.js modules. Use the following command to install them:
 
+```sh
 npm install
+```
 
-## Step 3: Run the Project
+## Step 3: Run the Server
 
-Once the dependencies are installed, you can start the project by executing the main script:
-
+```sh
 node Index.js
+```
+
+## Step 4: Navigate to the GBGames Directory
+
+```sh
+cd DedicateDB/GBGames
+```
+
+## Step 5: Install Dependencies
+
+Before running the project, you need to install the necessary Node.js modules. Use the following command to install them:
+
+```sh
+npm install
+```
+
+## Step 6: Run the Game
+
+```sh
+node Index.js
+```
