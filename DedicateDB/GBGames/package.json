@@ -1,0 +1,14 @@
+{
+  "name": "GBGames",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "sqlite3": "^5.1.7"
+  }
+}
