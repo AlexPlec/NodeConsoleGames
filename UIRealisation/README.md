@@ -16,16 +16,10 @@ Clone the project repository using Git:
 git clone https://github.com/AlexPlec/NodeConsoleGames.git
 ```
 
-Then, navigate into the project directory:
-
-```sh
-cd NodeConsoleGames
-```
-
 ## Step 1: Navigate to the GBGamesServer Directory
 
 ```sh
-cd UIRealisation/GBGamesServer
+cd NodeConsoleGames/UIRealisation/GBGamesServer
 ```
 
 ## Step 2: Install Dependencies
@@ -45,7 +39,7 @@ node Index.js
 ## Step 4: Navigate to the GBGameVue Directory
 
 ```sh
-cd UIRealisation/GBGameVue
+cd NodeConsoleGames/UIRealisation/GBGameVue
 ```
 
 ## Step 5: Install Dependencies
