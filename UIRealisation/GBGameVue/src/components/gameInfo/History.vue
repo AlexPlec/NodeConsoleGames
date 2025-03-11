@@ -1,5 +1,5 @@
 <script>
-import dbInteractions from '../../../../VueLocalDB/Db/dbInteractionsApi.js';
+import dbInteractions from '../../../Db/dbInteractionsApi';
 
 export default {
   props: {
