@@ -13,7 +13,7 @@ Make sure you have Node.js installed on your system. You can download it from th
 Clone the project repository using Git:
 
 ```sh
-git clone https://github.com/AlexPlec/GBGames.git
+git clone https://github.com/AlexPlec/NodeConsoleGames.git
 ```
 
 Then, navigate into the project directory:
